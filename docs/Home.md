@@ -1,4 +1,8 @@
-# Home
+---
+id: home
+title: Home
+sidebar_label: Home
+---
 
 :::warning[Important]
 This page is very important, please do not vandalize!
