@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'JME Wiki',
-  tagline: 'A wiki for the roblox game "JJT Money Empire"',
+  tagline: 'A fan-made wiki for the roblox game "JJT Money Empire"',
   favicon: 'img/logo.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/coalhakaar/jmewiki/',
+            'https://github.com/coalhakaar/jmewiki/tree/main',
         },
         blog: {
           showReadingTime: true,
