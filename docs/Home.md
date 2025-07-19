@@ -2,6 +2,9 @@
 id: home
 title: Home
 sidebar_label: Home
+sidebar_position: 1
+pagination_next: null
+pagination_prev: null
 ---
 
 :::warning[Important]

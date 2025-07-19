@@ -106,6 +106,8 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+    plugins: ['@orama/plugin-docusaurus-v3'],
 };
 
 
