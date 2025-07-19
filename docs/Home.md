@@ -7,7 +7,9 @@ pagination_next: null
 pagination_prev: null
 ---
 
-:::warning\[Important\]
+
+
+:::warning[Important]
 This page is very important, please do not vandalize!
 :::
 
