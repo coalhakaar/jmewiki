@@ -38,7 +38,7 @@ DM hakaar on discord to add a page.
     <summary>Want to edit a page?</summary>
 
 ```
-Submit a pull request, just please don't vandalize. Also remember, all edits are reviewed. Please write formally.
+Submit a pull request, or go scroll down and click "Edit this page", It brings you to a visual editor, once you're done press "Open PR for Current File". Just please don't vandalize. Also remember, all edits are reviewed. Please write formally.
 ```
 
 </details>
