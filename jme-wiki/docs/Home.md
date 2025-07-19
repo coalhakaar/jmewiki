@@ -16,9 +16,9 @@ Read [Docusaurus's documentation](https://docusaurus.io/docs) to learn important
 
 ### Information
 <details>
-    <summary>Want to make a difficulty/page?</summary>
+    <summary>Want to create a page?</summary>
 
-    DM hakaar on discord to add a page, specify if it's a difficulty or just a page. If it is a difficulty, a page will be created with a difficulty template.
+    DM hakaar on discord to add a page.
 </details>
 
 <details>
