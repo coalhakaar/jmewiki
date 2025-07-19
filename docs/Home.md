@@ -28,27 +28,22 @@ Read [Docusaurus's documentation](https://docusaurus.io/docs) to learn important
 <details>
     <summary>Want to create a page?</summary>
 
-```
-DM hakaar on discord to add a page.
-```
+    Submit a pull request.
 
 </details>
 
 <details>
     <summary>Want to edit a page?</summary>
 
-```
-Submit a pull request, or go scroll down and click "Edit this page", It brings you to a visual editor, once you're done press "Open PR for Current File". Just please don't vandalize. Also remember, all edits are reviewed, but I don't really take the time to compare absolutely everything, so that's why I have to keep writing notes not to vandalize, and also please write formally.
-```
+    Submit a pull request, or go scroll down and click "Edit this page", It brings you to a visual editor, once you're done press "Open PR for Current File". Just please don't vandalize. Also remember, all edits are reviewed, but I don't really take the time to compare absolutely everything, so that's why I have to keep writing notes not to vandalize, and also please write formally.
 
 </details>
 
 <details>
     <summary>Want to send feedback?</summary>
 
-```
-DM hakaar on discord, or do it on the github repo somewhere idk
-Why is this here? idk where to put it
-```
+    DM hakaar on discord, or do it on the github repo somewhere idk
+    Why is this here? idk where to put it
+
 
 </details>
