@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/coalhakaar/jmewiki/tree/main',
+            'https://holocron.so/github/pr/coalhakaar/jmewiki/main/editor/$%7BdocPath%7D',
         },
         blog: {
           showReadingTime: true,
@@ -62,7 +62,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/coalhakaar/jmewiki',
+            'https://holocron.so/github/pr/coalhakaar/jmewiki/main/editor/$%7BdocPath%7D',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
