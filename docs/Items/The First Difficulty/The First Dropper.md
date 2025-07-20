@@ -2,12 +2,29 @@
 pagination_next: null
 pagination_prev: null
 ---
-The First Difficulty has 4 items, which is The First Dropper, The First Conveyor, The First Furnace, and the First Upgrader
+
+# The First Dropper
+
+:::warning[Important]
+This page is very important, please do not vandalize!
+:::
+
+:::info
+This page is unfinished and needs more information. Please contribute if possible.
+:::
+
+The First Dropper is a Barren Islands dropper. This item can be bought in the Class Negative shop in "The First Difficulty". This item costs 0 Funds, and produces droplets worth 5 Funds. This item is essential to progress, and can't be skipped. You can obtain one of this item as soon as you get introduced to your mine.
+
 
 | The First Dropper    |
 | ----------- |
 | ![The First Dropper Image](/img/TheFirstDropper.png) |
 | **Area:** Barren Islands   |
 | **Maximum Amount:** 3  |
-| **Stats:** |
+| **Price:** 0 Funds  |
+| **Droplet Stats:** 5 Funds |
 | **Class:** Class Negative   |
+
+
+# Important Information
+You can obtain one of this item as soon as you get introduced to your mine. You can buy 2 more The First Droppers in the Class Negative shop.
