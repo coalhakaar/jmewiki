@@ -94,7 +94,7 @@ const config = {
             label: 'Wiki',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/coalhakaar/jmewiki',
             label: 'GitHub',
             position: 'right',
           },
